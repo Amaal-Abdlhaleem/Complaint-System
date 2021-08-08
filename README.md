@@ -13,4 +13,4 @@ It is a system that helps the team to detect and translate complains made by the
 3. The system should be able to detect the language used in a complain text
 4. The system should be able to translate from one language to the other base on specification
 
-##### Using [**Google Translate** Rapidapi Endpoint] (https://rapidapi.com/googlecloud/api/google-translate1)
+##### Using [**Google Translate** Rapidapi Endpoint](https://rapidapi.com/googlecloud/api/google-translate1)
